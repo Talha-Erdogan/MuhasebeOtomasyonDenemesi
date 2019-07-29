@@ -1,7 +1,33 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TalhaOtomasyon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="cs1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source = </Value>
+    </Setting>
+    <Setting Name="cs_Sunucu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="cs2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Initial Catalog = </Value>
+    </Setting>
+    <Setting Name="cs_Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="cs3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">User Id= </Value>
+    </Setting>
+    <Setting Name="cs_UserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="cs4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Password=</Value>
+    </Setting>
+    <Setting Name="cs_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
 </SettingsFile>
